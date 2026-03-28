@@ -1,0 +1,1 @@
+![Diagrama de flujo](./Diagrama.drawio.png) 
