@@ -1,0 +1,7 @@
+# Python bytecode (archivos temporales)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datos del sistema (si no quieres subir tu base de datos)
+inventory.csv
